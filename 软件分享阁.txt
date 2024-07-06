@@ -594,7 +594,72 @@ NEWTV精品大剧,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/
 NEWTV军事评论,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NEWTV明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 NEWTV欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
+🏆咪咕体育,#genre#
+咪咕全民热练 (IPV6),https://stream1.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
+咪咕直播 *「IPV6」 (IPV6),https://stream1.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
+咪咕直播 *「IPV6」 (IPV6) (BACKUP 1),https://stream1.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
+咪咕直播 *「IPV6」 (IPV6) (BACKUP 2),https://stream1.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
+咪咕直播 *「IPV6」 (IPV6) (BACKUP 3),https://stream1.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
+咪咕直播 「IPV4」,https://stream1.freetv.fun/ff22d54410fe009315856a3513f5716609ca915aee36af17a61f89a1f1b2b9cd.m3u8
+咪咕直播 「IPV4」 (BACKUP 1),https://stream1.freetv.fun/c994a1bbdc935dc4629eb3c91890711ed422a96388c2aec11ff7fa970a003006.m3u8
+咪咕直播 「IPV4」 (BACKUP 2),https://stream1.freetv.fun/a23c018c9a626f469e5de353dc023edc877d5d42323c89616f0dd3e4c0ea98a4.m3u8
+咪咕直播 「IPV4」 (BACKUP 3),https://stream1.freetv.fun/161cbd7635541530f3dc08f1d42f8c42a97114a783c01c3a5d3b404f66595544.m3u8
+咪咕直播 「IPV4」 (BACKUP 4),https://stream1.freetv.fun/f0bd8f9395917df81b6eb626feee7b1a55b96f5c98c084f2a759556ebf8fc62e.m3u8
+咪咕直播 「IPV4」 (BACKUP 5),https://stream1.freetv.fun/7c63ea43ad424ce16a329993f428639c05c509482a6bd8ce07431254b6dd4ba1.m3u8
+咪咕直播 「IPV4」 (BACKUP 6),https://stream1.freetv.fun/e399efc392a2ed9a04ff4d3a972c7d08647bb2b6dffae42528551edd66815ff9.m3u8
+咪咕直播 「IPV4」 (BACKUP 7),https://stream1.freetv.fun/a29a02b20f1cc7170132d5b23e3710b9584353933700839b2bfa3d4b20ada111.m3u8
+咪咕直播 「IPV4」 (BACKUP 8),https://stream1.freetv.fun/6d8c8ad7d390385c50aef572e407dbff0a07720608235b751975717ffbfc6ba5.m3u8
+咪咕直播 「IPV4」 (BACKUP 9),https://stream1.freetv.fun/6ba634096d1a13c75b950e206e535d02c8d480ee693d6c2a42836e9c7a564990.m3u8
+咪咕直播 「IPV4」 (BACKUP 10),https://stream1.freetv.fun/6bd0c452f1d465fe6f82b2b9dbc58e318e109bb4875f6577e9aa8e37fdf648c8.m3u8
+咪咕直播 「IPV4」 (BACKUP 11),https://stream1.freetv.fun/7e88167638a231f7a85f40e1cefa61de9b92bba051b0df578dc178026ed307d2.m3u8
+咪咕直播 「IPV4」 (BACKUP 12),https://stream1.freetv.fun/80aed0c8c08861ac50884c062d44323fb5609fb0603ca21d127946fd8d127109.m3u8
+咪咕直播 「IPV4」 (BACKUP 13),https://stream1.freetv.fun/d3e2d08a23163b560f317d703f2ca503c0dd0b7ea58360465271d02eec6c3c74.m3u8
+咪咕直播 「IPV4」 (BACKUP 14),https://stream1.freetv.fun/1b1425a40c2404c16993d5b0f573c4d76b6399a65d6824b0f919099fe8634334.m3u8
+咪咕直播 「IPV4」 (BACKUP 15),https://stream1.freetv.fun/b8915e669fd0236150ee905d39a8ab89e494d78c74e85ce630dff6d5f5409f88.m3u8
+咪咕直播 「IPV4」 (BACKUP 16),https://stream1.freetv.fun/a33e255d0c70636ef61bce627047093309177206a0c15ea184451c281f506a76.m3u8
+咪咕直播 「IPV4」 (BACKUP 17),https://stream1.freetv.fun/73207ffa1ce1873448ca2ef2c253c699dd99e9631871abc5e8b71d91b5365b64.m3u8
+咪咕直播 「IPV4」 (BACKUP 18),https://stream1.freetv.fun/ea01e30b1ffb82f618e797577d0b657fd75afa5dcf98fe1ca7b19aaf337251df.m3u8
+咪咕直播 「IPV4」 (BACKUP 19),https://stream1.freetv.fun/8faff7a07bebb38563b793eb2335ff154c8d170c02bdb421e5e47da22f37c002.m3u8
+咪咕直播 「IPV4」 (BACKUP 20),https://stream1.freetv.fun/cd2813118a053cc604c6ccd2a6a58f753dc99750431d4535df53f4f808144245.m3u8
+咪咕直播 「IPV4」 (BACKUP 21),https://stream1.freetv.fun/0681b450febe258cab9257d55a9d04d92ca0a3f1e823b66251e0336d85c101ab.m3u8
+咪咕直播 「IPV4」 (BACKUP 22),https://stream1.freetv.fun/b71691bf28d66720c21e6cb8aa001895f622d91922598b44641af018342d18bd.m3u8
+咪咕直播 「IPV4」 (BACKUP 23),https://stream1.freetv.fun/3108eb56a3cf0ed1c4109f6f5feef60fe836c9366fc6cdc17e34dea7be0f6fa9.m3u8
+咪咕直播 「IPV4」 (BACKUP 24),https://stream1.freetv.fun/59b46dbf575d61eb35bf34a9e27e5cb192db53ed61fe73796fabb8bb8bddb3a5.m3u8
+咪咕直播 「IPV4」 (BACKUP 25),https://stream1.freetv.fun/58875de2e4aa923c4abd5294220ebf01e5d45179ba3b77e4e14e3ca8bbe38c30.m3u8
+咪咕直播 「IPV4」 (BACKUP 26),https://stream1.freetv.fun/b278fdf5876ac662f0c2c00a975c7905c4efaa56ca13202d5d0598ecfb65152d.m3u8
+咪咕直播 「IPV4」 (BACKUP 27),https://stream1.freetv.fun/2ac9c4cc053c1a770d3da65f6db219e5c2633a355cd03f1f3bf706a2b16f9945.m3u8
+咪咕直播 「IPV4」 (BACKUP 28),https://stream1.freetv.fun/7a3929665f38d897dd393e8e781402b853f06dceda6f46972126e7b2490ecc43.m3u8
+咪咕直播 「IPV4」 (BACKUP 29),https://stream1.freetv.fun/f12601d702e7f2aae5f9577f0ddec432616e3aa8895a0f65c9aec8f35ce7960f.m3u8
+咪咕直播 「IPV4」 (BACKUP 30),https://stream1.freetv.fun/e8f64f244b39e623c17c46b3db8e939ee820e1ef246d7c109abd0ec6da3d7ea1.m3u8
+咪咕直播 「IPV4」 (BACKUP 31),https://stream1.freetv.fun/de861d80524a95e83ae48aca4d666eafc09643df4fd46a808cff080b03253d2e.m3u8
+咪咕直播 「IPV4」 (BACKUP 32),https://stream1.freetv.fun/cf665344937b4736251d78f38b6d1cb6db7d33cac3afd23f1572a0258a267b52.m3u8
+咪咕直播 「IPV4」 (BACKUP 33),https://stream1.freetv.fun/9589aa6afd842857c239e5e1587725d735eda181c6982da0924ac79e3fbb0ee2.m3u8
+咪咕直播 「IPV4」 (BACKUP 34),https://stream1.freetv.fun/c2a1106e95b6766f69d89e68119ffe8446987d5125a297ec064f9c21e4fc5274.m3u8
+咪咕直播 「IPV4」 (BACKUP 35),https://stream1.freetv.fun/ebedef813d34dcefa768fac88d7edcc5059501cc18b03e0fcb7eeecbc59c605b.m3u8
+咪咕直播 「IPV4」 (BACKUP 36),https://stream1.freetv.fun/1d255dd418f7230736797d36db28b9737236a8dcf6ed74f3912afcc6dac363bf.m3u8
+咪咕直播 「IPV4」 (BACKUP 37),https://stream1.freetv.fun/aa46577dd9b3394602f211c35c55a89aa158f5ec802d0cd6358155e5486cf0fa.m3u8
+咪咕直播 「IPV4」 (BACKUP 38),https://stream1.freetv.fun/c1748b2c5e2e5773300a8aca06aa919e9ceecb63f16b45c0829ea9e756c98314.m3u8
+咪咕直播 「IPV4」 (BACKUP 39),https://stream1.freetv.fun/b612ff35c5c978a200b4e85ef513c4de17ab983cd05338f7f0c9fa51bc1c7147.m3u8
+咪咕直播 「IPV4」 (BACKUP 40),https://stream1.freetv.fun/fe45f088d5b1b9b8d817e9b56041581eb4189a4e4112c6f3de0c8afe633f3998.m3u8
+咪咕直播 「IPV4」 (BACKUP 41),https://stream1.freetv.fun/17da57a288d66fa6c1836bab7620966c969d8096accef624865e0e15da3c951f.m3u8
+咪咕直播 「IPV4」 (BACKUP 42),https://stream1.freetv.fun/42b765090d9b9bb2cc3f838e8b544c61c626f13f92559bb79d8f17e75b16b1e0.m3u8
+咪咕直播 「IPV4」 (BACKUP 43),https://stream1.freetv.fun/ccb84ee4445225c1699623838d9ed1ba2e3a1a7daef990351be230368803d974.m3u8
+咪咕直播 「IPV4」 (BACKUP 44),https://stream1.freetv.fun/67142ea4f3a1e1f958c20df0e86d77638546e46a4b3f3608e7bd13c469b105e2.m3u8
+咪咕直播-27「IPV6」 (IPV6),https://stream1.freetv.fun/6ee926d0c8d8b1c7dc59968dfe9197454593c852570a082fb77c83f3ce97eecc.m3u8
+咪咕直播4K Ⅰ「IPV4」,https://stream1.freetv.fun/bf613285a522638ada48b9a91ea730234d2efc26e17c48cb8f79bf00b5ffb490.m3u8
+咪咕篮球 (IPV6),https://stream1.freetv.fun/112d6c9600c4410c287958196a77f3fd21c0572cf6b6a4c074841f9fcccb13a7.m3u8
+咪咕视频 (IPV6),https://stream1.freetv.fun/1c4ade7792737f9d8e8c061c04032ec7434b82cddb5d427a97b2d3059d9584ac.m3u8
+咪咕视频1,https://stream1.freetv.fun/2db3da3713d0168815e781460237ad8999cdd8a1e45291946eb25583c99c24cc.m3u8
+咪咕视频2,https://stream1.freetv.fun/f14d9f489d0cbc6f41c18dbaecc206ab19f20ec1c256b5399d0717ea48ab2177.m3u8
+咪咕视频2 (IPV6),https://stream1.freetv.fun/9a2766e4204d1f17e6b5c6458ac40a9632a250e41b484ef4855307c20d3d1f49.m3u8
+咪咕视频3,https://stream1.freetv.fun/dfcffa8ffa8b32c7a12ad12974968df1e108ddd9bfcaaa0f76bd1f53f8255259.m3u8
+咪咕视频3 (IPV6),https://stream1.freetv.fun/6b2f3c5cd6fbe21ab90c13af6c93e205ad21895c09f9876a6b78f73671de0df4.m3u8
+咪咕视频4,https://stream1.freetv.fun/26d4cc4b9e70cfe453ad7e7fc64a781c7073aec26ac733c58d25630fae9933c7.m3u8
+咪咕视频4 (IPV6),https://stream1.freetv.fun/42ebacc149e9bfff448dbe063a635c53da7bcda2df6745724c2dd161fc20627c.m3u8
+咪咕视频5,https://stream1.freetv.fun/68ed0c94c8d8cc27a647bcd8a3571fd11577f43e8c0c08f7a25e046bfd9536ae.m3u8
+咪咕视频5 (IPV6),https://stream1.freetv.fun/4af82d7ec12f25a99b983fcd3ab589452b9e6faebcc025cd5a1506fe2d2d4690.m3u8
+咪咕足球 (IPV6),https://stream1.freetv.fun/3c7a8e5751a5e715569017548b2091c799b18ac1a8cc8a833a89ab5856112a1f.m3u8
+咪咕运动「IPV6」 (IPV6),https://stream1.freetv.fun/5d354228b5275e251e94b5635df8ce1dc9e637d2931963adc269a6111e007798.m3u8
 
 🌏全球频道,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
