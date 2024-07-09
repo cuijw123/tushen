@@ -36,7 +36,7 @@
             },
             "jar": "./danmu.jar"
         },
-	      {
+	    {
       "key": "玩偶",
       "name": "🌐饭佬玩偶┃UC网盘",
       "type": 3,
@@ -44,7 +44,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://vip.123pan.cn/1829447248/6331181",
+      7aeb370bab271a107b7910fd87d761e538554f9fed95d96daac8fbb6f402bb223c9d878173b1abc20e29ffa9cdfa023580c2a18308307d472376270afaa6cbf3,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
