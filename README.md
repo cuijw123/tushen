@@ -1,4 +1,3 @@
 #纯属娱乐  ！！！！
+#请勿用于非法商业用途 ！！！
 
-地址:
-https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/sword/Forever/Meet.json
